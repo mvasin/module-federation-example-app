@@ -16,4 +16,4 @@ Imagine there are multiple teams teams using this component library, and we want
 To follow these exact steps, you need access to the repo, of course, but feel free to clone and tweak vercel URLs in the webpack configs of both the library and the app - you should be good to go on your own.
 
 ## Thanks
-Massive shout-out to @ScriptedAlchemy for module federation, the game changer in microfrontends! Also huge thanks to @jherr for the video series on the topic, without those I wouldn't be able to come up with this demo.
+Massive shout-out to [@ScriptedAlchemy](https://github.com/ScriptedAlchemy) for module federation, the game changer in microfrontends! Also huge thanks to [@jherr](https://github.com/jherr) for the video series on the topic, without those I wouldn't be able to come up with this demo.
