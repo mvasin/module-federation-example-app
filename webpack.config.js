@@ -28,7 +28,7 @@ module.exports = {
 
   plugins: [
     new ModuleFederationPlugin({
-      name: "library",
+      name: "app",
       filename: "remoteEntry.js",
       remotes: {
         "library": "library@http://localhost:8081/remoteEntry.js"
