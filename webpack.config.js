@@ -5,7 +5,7 @@ module.exports = (_, {mode}) => ({
   output: {
     publicPath:
       mode === "production"
-        ? "https://module-federation-example-app.vercel.app"
+        ? "https://module-federation-example-app.vercel.app/"
         : "http://localhost:8082/",
   },
 
