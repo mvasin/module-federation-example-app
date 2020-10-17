@@ -4,7 +4,7 @@ This repo showcases the module federation available in Webpack 5.
 
 Imagine that one team is working on a component library. The repository is located at https://github.com/mvasin/module-federation-example-component-library, the latest component showroom is available at https://module-federation-example-component-library.vercel.app/.
 
-Imagine there are multiple teams teams using this component library, and we want to make sure all the teams use the latest version of the library. We also don't want to redeploy every app on every library release. Thanks to module federation, it's now possible! Check out this repo and the live demo at https://module-federation-example-app.vercel.app/
+Imagine there are multiple teams using this component library, and we want to make sure all the teams use the latest version of the library. We also don't want to redeploy every app on every library release. Thanks to module federation, it's now possible! Check out this repo and the live demo at https://module-federation-example-app.vercel.app/
 
 
 ## How to test
